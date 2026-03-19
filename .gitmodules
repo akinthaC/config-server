@@ -1,0 +1,3 @@
+[submodule "src/main/resources/configurations"]
+	path = src/main/resources/configurations
+	url = https://github.com/akinthaC/SmartMenuX-Project-Configurations.git
